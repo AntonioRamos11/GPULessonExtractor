@@ -1,0 +1,168 @@
+[
+  {
+    "video_id": "OUzm06YaUsI",
+    "title": "",
+    "is_gpu_related": false,
+    "confidence": 0.2,
+    "reasoning": "No GPU-related keywords found",
+    "url": "https://youtube.com/watch?v=OUzm06YaUsI"
+  },
+  {
+    "video_id": "KXjEQHmWPsQ",
+    "title": "",
+    "is_gpu_related": false,
+    "confidence": 0.2,
+    "reasoning": "No GPU-related keywords found",
+    "url": "https://youtube.com/watch?v=KXjEQHmWPsQ"
+  },
+  {
+    "video_id": "upZf-BWF1i0",
+    "title": "",
+    "is_gpu_related": false,
+    "confidence": 0.2,
+    "reasoning": "No GPU-related keywords found",
+    "url": "https://youtube.com/watch?v=upZf-BWF1i0"
+  },
+  {
+    "video_id": "Pbbi3k5XTcs",
+    "title": "",
+    "is_gpu_related": false,
+    "confidence": 0.2,
+    "reasoning": "No GPU-related keywords found",
+    "url": "https://youtube.com/watch?v=Pbbi3k5XTcs"
+  },
+  {
+    "video_id": "zDwRrhQ9PDc",
+    "title": "George Hotz | Programming | working on the tinygrad backend for PyTorch | tinycorp.myshopify.com",
+    "is_gpu_related": false,
+    "confidence": 0.2,
+    "reasoning": "No GPU-related keywords found",
+    "url": "https://youtube.com/watch?v=zDwRrhQ9PDc"
+  },
+  {
+    "video_id": "c1UHi7dncvo",
+    "title": "",
+    "is_gpu_related": false,
+    "confidence": 0.2,
+    "reasoning": "No GPU-related keywords found",
+    "url": "https://youtube.com/watch?v=c1UHi7dncvo"
+  },
+  {
+    "video_id": "pKE3LV2Rdyw",
+    "title": "",
+    "is_gpu_related": false,
+    "confidence": 0.2,
+    "reasoning": "No GPU-related keywords found",
+    "url": "https://youtube.com/watch?v=pKE3LV2Rdyw"
+  },
+  {
+    "video_id": "YYD3aZatWRo",
+    "title": "",
+    "is_gpu_related": false,
+    "confidence": 0.2,
+    "reasoning": "No GPU-related keywords found",
+    "url": "https://youtube.com/watch?v=YYD3aZatWRo"
+  },
+  {
+    "video_id": "Gm0t-kAsHuY",
+    "title": "George Hotz | Programming | making tinygrad CLOUD=1 fast (even from Hong Kong!) | Good Vibes :)",
+    "is_gpu_related": false,
+    "confidence": 0.2,
+    "reasoning": "No GPU-related keywords found",
+    "url": "https://youtube.com/watch?v=Gm0t-kAsHuY"
+  },
+  {
+    "video_id": "LJbUaciFdV8",
+    "title": "George Hotz | Just Chatting | how to actually win? | tinygrad.org",
+    "is_gpu_related": false,
+    "confidence": 0.2,
+    "reasoning": "No GPU-related keywords found",
+    "url": "https://youtube.com/watch?v=LJbUaciFdV8"
+  },
+  {
+    "video_id": "gEIKcccSpg4",
+    "title": "George Hotz | Programming | tinygrad, starting on CLOUD=1 | Part 2",
+    "is_gpu_related": false,
+    "confidence": 0.2,
+    "reasoning": "No GPU-related keywords found",
+    "url": "https://youtube.com/watch?v=gEIKcccSpg4"
+  },
+  {
+    "video_id": "dw7w9uUKht4",
+    "title": "George Hotz | Talking | Just Chatting | tinygrad, starting on CLOUD=1 | Part 1",
+    "is_gpu_related": false,
+    "confidence": 0.2,
+    "reasoning": "No GPU-related keywords found",
+    "url": "https://youtube.com/watch?v=dw7w9uUKht4"
+  },
+  {
+    "video_id": "h0jT60MBsvc",
+    "title": "George Hotz | Programming | toonygrad! a rewrite of the tinygrad middleware (1/n) | Hong Kong",
+    "is_gpu_related": false,
+    "confidence": 0.2,
+    "reasoning": "No GPU-related keywords found",
+    "url": "https://youtube.com/watch?v=h0jT60MBsvc"
+  },
+  {
+    "video_id": "R8uxmXmtOrk",
+    "title": "George Hotz | Programming | tinygrad updates and fast MCTS search | tinygrad.org/#tinybox",
+    "is_gpu_related": false,
+    "confidence": 0.2,
+    "reasoning": "No GPU-related keywords found",
+    "url": "https://youtube.com/watch?v=R8uxmXmtOrk"
+  },
+  {
+    "video_id": "Z04xTlLdZnc",
+    "title": "George Hotz | Reverse engineering | switching from AQL to PM4 to avoid bugs on the AMD 7900XTX Part2",
+    "is_gpu_related": true,
+    "confidence": 0.9,
+    "reasoning": "Keyword match found: George Hotz | Reverse engineering | switching from AQL to PM4 to avoid bugs on the AMD 7900XTX Part2",
+    "url": "https://youtube.com/watch?v=Z04xTlLdZnc",
+    "has_transcript": false
+  },
+  {
+    "video_id": "j7MRj4N2Cyk",
+    "title": "George Hotz | Researching | same thing we do every weekend, documenting the AMD 7900XTX | Part 1",
+    "is_gpu_related": true,
+    "confidence": 0.9,
+    "reasoning": "Keyword match found: George Hotz | Researching | same thing we do every weekend, documenting the AMD 7900XTX | Part 1",
+    "url": "https://youtube.com/watch?v=j7MRj4N2Cyk",
+    "has_transcript": false
+  },
+  {
+    "video_id": "Y-0yZ1AHb0s",
+    "title": "George Hotz | Researching | documenting the AMD 7900XTX so we can understand why it crashes | RDNA 3",
+    "is_gpu_related": true,
+    "confidence": 0.9,
+    "reasoning": "Keyword match found: George Hotz | Researching | documenting the AMD 7900XTX so we can understand why it crashes | RDNA 3",
+    "url": "https://youtube.com/watch?v=Y-0yZ1AHb0s",
+    "has_transcript": false
+  },
+  {
+    "video_id": "BCnTXwhzzxA",
+    "title": "George Hotz | Programming | writing a fuzzer and not getting triggered when the AMD GPU crashes UMR",
+    "is_gpu_related": true,
+    "confidence": 0.9,
+    "reasoning": "Keyword match found: George Hotz | Programming | writing a fuzzer and not getting triggered when the AMD GPU crashes UMR",
+    "url": "https://youtube.com/watch?v=BCnTXwhzzxA",
+    "has_transcript": false
+  },
+  {
+    "video_id": "-iH5wvFnsKs",
+    "title": "George Hotz | Programming | ripping out all of AMD's userspace, AMDGPU ioctls | GPU memory | HSA KFD",
+    "is_gpu_related": true,
+    "confidence": 0.9,
+    "reasoning": "Keyword match found: George Hotz | Programming | ripping out all of AMD's userspace, AMDGPU ioctls | GPU memory | HSA KFD",
+    "url": "https://youtube.com/watch?v=-iH5wvFnsKs",
+    "has_transcript": false
+  },
+  {
+    "video_id": "rUsx1b7rQ8Q",
+    "title": "George Hotz | Exploring | sniffing NVIDIA's ioctls | open-gpu-kernel-modules | DEBUG | PTX | CUDA",
+    "is_gpu_related": true,
+    "confidence": 0.9,
+    "reasoning": "Keyword match found: George Hotz | Exploring | sniffing NVIDIA's ioctls | open-gpu-kernel-modules | DEBUG | PTX | CUDA",
+    "url": "https://youtube.com/watch?v=rUsx1b7rQ8Q",
+    "has_transcript": false
+  }
+]

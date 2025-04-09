@@ -1,0 +1,10 @@
+{
+  "video_analysis": {
+    "max_results": 50,
+    "video_quality": "high"
+  },
+  "output": {
+    "processed_data_path": "data/processed",
+    "raw_data_path": "data/raw"
+  }
+}

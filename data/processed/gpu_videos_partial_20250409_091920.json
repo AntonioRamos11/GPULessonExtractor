@@ -1,0 +1,82 @@
+[
+  {
+    "video_id": "OUzm06YaUsI",
+    "title": "",
+    "is_gpu_related": false,
+    "confidence": 0.2,
+    "reasoning": "No GPU-related keywords found",
+    "url": "https://youtube.com/watch?v=OUzm06YaUsI"
+  },
+  {
+    "video_id": "KXjEQHmWPsQ",
+    "title": "",
+    "is_gpu_related": false,
+    "confidence": 0.2,
+    "reasoning": "No GPU-related keywords found",
+    "url": "https://youtube.com/watch?v=KXjEQHmWPsQ"
+  },
+  {
+    "video_id": "upZf-BWF1i0",
+    "title": "",
+    "is_gpu_related": false,
+    "confidence": 0.2,
+    "reasoning": "No GPU-related keywords found",
+    "url": "https://youtube.com/watch?v=upZf-BWF1i0"
+  },
+  {
+    "video_id": "Pbbi3k5XTcs",
+    "title": "",
+    "is_gpu_related": false,
+    "confidence": 0.2,
+    "reasoning": "No GPU-related keywords found",
+    "url": "https://youtube.com/watch?v=Pbbi3k5XTcs"
+  },
+  {
+    "video_id": "zDwRrhQ9PDc",
+    "title": "George Hotz | Programming | working on the tinygrad backend for PyTorch | tinycorp.myshopify.com",
+    "is_gpu_related": false,
+    "confidence": 0.2,
+    "reasoning": "No GPU-related keywords found",
+    "url": "https://youtube.com/watch?v=zDwRrhQ9PDc"
+  },
+  {
+    "video_id": "c1UHi7dncvo",
+    "title": "",
+    "is_gpu_related": false,
+    "confidence": 0.2,
+    "reasoning": "No GPU-related keywords found",
+    "url": "https://youtube.com/watch?v=c1UHi7dncvo"
+  },
+  {
+    "video_id": "pKE3LV2Rdyw",
+    "title": "",
+    "is_gpu_related": false,
+    "confidence": 0.2,
+    "reasoning": "No GPU-related keywords found",
+    "url": "https://youtube.com/watch?v=pKE3LV2Rdyw"
+  },
+  {
+    "video_id": "YYD3aZatWRo",
+    "title": "",
+    "is_gpu_related": false,
+    "confidence": 0.2,
+    "reasoning": "No GPU-related keywords found",
+    "url": "https://youtube.com/watch?v=YYD3aZatWRo"
+  },
+  {
+    "video_id": "Gm0t-kAsHuY",
+    "title": "George Hotz | Programming | making tinygrad CLOUD=1 fast (even from Hong Kong!) | Good Vibes :)",
+    "is_gpu_related": false,
+    "confidence": 0.2,
+    "reasoning": "No GPU-related keywords found",
+    "url": "https://youtube.com/watch?v=Gm0t-kAsHuY"
+  },
+  {
+    "video_id": "LJbUaciFdV8",
+    "title": "George Hotz | Just Chatting | how to actually win? | tinygrad.org",
+    "is_gpu_related": false,
+    "confidence": 0.2,
+    "reasoning": "No GPU-related keywords found",
+    "url": "https://youtube.com/watch?v=LJbUaciFdV8"
+  }
+]
